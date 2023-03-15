@@ -1,4 +1,6 @@
 # tugas5
+![image](https://user-images.githubusercontent.com/92065915/225197094-10197e21-2afb-4316-a04e-a83f32357330.png)
+![image](https://user-images.githubusercontent.com/92065915/225197614-6e8fff37-cb9f-40b2-b60a-2dd2f0c28c94.png)
 
 A new Flutter project.
 
